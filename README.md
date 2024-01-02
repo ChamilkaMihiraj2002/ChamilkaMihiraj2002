@@ -1,4 +1,4 @@
-![MasterHead](https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)
+![MasterHead](https://sukhbinder.files.wordpress.com/2022/01/snow_banner_o.gif)
 
 <h1 align="center">Hi 👋, I'm Chamilka Mihiraj Perera</h1>
 <h3 align="center">As an IT undergraduate student and self-learner, I'm passionate about programming and technology.</h3>
