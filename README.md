@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamilkamihiraj2002&label=Profile%20views&color=0e75b6&style=flat" alt="chamilkamihiraj2002" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chamilkamihiraj2002" alt="chamilkamihiraj2002" /></a> </p>
+![](https://github-profile-trophy.vercel.app/?username=Chamilkamihiraj2002&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 <p align="left"> <a href="https://twitter.com/@pererawacm2002" target="blank"><img src="https://img.shields.io/twitter/follow/@pererawacm2002?logo=twitter&style=for-the-badge" alt="@pererawacm2002" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*VMmvImch6VU5pc2VktY1uw.gif">
