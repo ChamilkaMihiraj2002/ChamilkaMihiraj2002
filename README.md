@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://twitter.com/@pererawacm2002" target="blank"><img src="https://img.shields.io/twitter/follow/@pererawacm2002?logo=twitter&style=for-the-badge" alt="@pererawacm2002" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*VMmvImch6VU5pc2VktY1uw.gif">
 
-- 🌱 I’m currently learning **React.js, Angular, Firebase, docker, .Net, AI/ML**
+- 🌱 I’m currently learning **Python, Java, C++, and react.js**
 
 - 🤝 I’m looking for help with **Open Source Projects**
 
@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://chamilkamihirajperera.blogspot.com/](https://chamilkamihirajperera.blogspot.com/)
 
-- 💬 Ask me about **Java, Python, C++ ,C ,JavaScript ,Html & CSS**
+- 💬 Ask me about **Java, Python and React.js**
 
 - 📫 How to reach me **Chamilkamihiraj22@gmail.com**
 
