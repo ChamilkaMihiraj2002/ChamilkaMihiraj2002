@@ -120,7 +120,6 @@
   <img src="https://github-profile-trophy.vercel.app?username=Chamilkamihiraj2002&theme=onestar&column=8&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="125" alt="trophy graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Chamilkamihiraj2002&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chamilkamihiraj2002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Chamilkamihiraj2002&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chamilkamihiraj2002&radius=16&theme=github-dark&area=true&order=5&hide_border=true&custom_title=My%20Contribution" height="300" alt="activity-graph graph"  />
 </div>
 
