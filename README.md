@@ -6,7 +6,7 @@ I'm an IT&M undergraduate at the University of Moratuwa, passionate about develo
 <img align='right' src=image\image.gif height='300'/>
 
 #### Languages 
-![Languages](https://skillicons.dev/icons?i=python,js,cpp,c,java,ts)
+![Languages](https://skillicons.dev/icons?i=python,cpp,c,java,ts,js,php)
 
 #### Tech Stack
 ![Tech Stack](https://skillicons.dev/icons?i=react,next,html,css,tailwind,bootstrap,materialui,nodejs,nest,django,laravel,express,fastapi,postgres,mysql,sqlite,mongodb&perline=6)
