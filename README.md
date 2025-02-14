@@ -9,7 +9,7 @@ I'm an IT&M undergraduate at the University of Moratuwa, passionate about develo
 ![Languages](https://skillicons.dev/icons?i=python,cpp,c,java,ts,js,php)
 
 #### Tech Stack
-![Tech Stack](https://skillicons.dev/icons?i=react,next,html,css,tailwind,bootstrap,materialui,nodejs,nest,django,laravel,express,fastapi,postgres,mysql,sqlite,mongodb&perline=6)
+![Tech Stack](https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,materialui,nodejs,nest,django,laravel,express,fastapi,postgres,mysql,sqlite,mongodb&perline=6)
 
 #### Cloud & Other
 ![Tech Stack](https://skillicons.dev/icons?i=aws,azure,docker,figma,postman,blender,grafana,arduino,linux&perline=6)
