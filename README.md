@@ -12,7 +12,7 @@ I'm an IT&M undergraduate at the University of Moratuwa, passionate about develo
 ![Tech Stack](https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,materialui,nodejs,nest,django,laravel,express,fastapi,postgres,mysql,sqlite,mongodb&perline=6)
 
 #### Cloud & Other
-![Tech Stack](https://skillicons.dev/icons?i=aws,azure,docker,figma,postman,blender,grafana,arduino,Ubuntu,linux&perline=6)
+![Tech Stack](https://skillicons.dev/icons?i=aws,azure,docker,figma,postman,blender,grafana,arduino,linux&perline=6)
 
 <hr>
 <div align="center">
