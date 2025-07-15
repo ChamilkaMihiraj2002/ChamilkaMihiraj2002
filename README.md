@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#0ff;">Chamilka Mihiraj Perera</span></h1>
-<h3 align="center">🚀 IT&M Undergraduate | 💻 Software Developer | 🌐 IoT Enthusiast</h3>
+<h3 align="center">🚀 IT&M Undergraduate | 💻 Software Developer | 🌐 Data & AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Passionate+about+tech+and+innovation.;Crafting+smart+IoT+solutions.;Full-stack+developer+in+progress.;Always+learning+something+new." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Passionate+about+tech+and+innovation.;Crafting+Data+and+AI+solutions.;Full-stack+developer+in+progress.;Always+learning+something+new." alt="Typing SVG" />
 </p>
 
 ---
@@ -58,8 +58,8 @@
 ### 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chamilka-mihiraj" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:chamilkamihiraj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/chamilka-mihiraj](https://www.linkedin.com/in/chamilka-mihiraj-perera2002)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:chamilkaperera5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Chamilkamihiraj2002"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
 </p>
 
