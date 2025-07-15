@@ -15,7 +15,7 @@
 - 🌱 Currently exploring **AI tools**, **data engineering**, and **DevOps**
 
 <p align="center">
-  <img src="image/image1.gif" height="300" alt="dev gif"/>
+  <img src="image/image1.gif"  alt="dev gif"/>
 </p>
 
 ---
