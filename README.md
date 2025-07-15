@@ -58,7 +58,9 @@
 ### 🔗 Let's Connect
 
 <p align="center">
-  <a href="[[https://www.linkedin.com/in/chamilka-mihiraj](https://www.linkedin.com/in/chamilka-mihiraj-perera2002/)](https://www.linkedin.com/in/chamilka-mihiraj-perera2002)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/chamilka-mihiraj-perera2002" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
   <a href="mailto:chamilkaperera5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Chamilkamihiraj2002"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
 </p>
