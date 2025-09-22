@@ -26,7 +26,7 @@
 ![Languages](https://skillicons.dev/icons?i=python,cpp,c,java,ts,js,php)
 
 #### ⚙️ Frameworks & Libraries
-![Frameworks](https://skillicons.dev/icons?i=react,express,nodejs,nest,django,laravel,fastapi&perline=6)
+![Frameworks](https://skillicons.dev/icons?i=react,express,nodejs,nest,laravel,fastapi&perline=6)
 
 #### 🌐 Web Technologies
 ![Web](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui&perline=6)
@@ -35,10 +35,10 @@
 ![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb)
 
 #### ☁️ Cloud & DevOps
-![Cloud](https://skillicons.dev/icons?i=aws,azure,docker,linux,postman)
+![Cloud](https://skillicons.dev/icons?i=docker,linux,postman)
 
 #### 🔧 Tools & Design
-![Tools](https://skillicons.dev/icons?i=figma,blender,arduino,grafana)
+![Tools](https://skillicons.dev/icons?i=figma,blender,arduino)
 
 ---
 
