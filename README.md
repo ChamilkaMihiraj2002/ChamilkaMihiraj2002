@@ -97,7 +97,7 @@ A lightweight utility designed to convert **DOCX and PPTX files to PDF locally**
 
 #### ⚙️ Frameworks & Libraries
 
-![Frameworks](https://skillicons.dev/icons?i=react,express,nodejs,nest,laravel,fastapi)
+![Frameworks](https://skillicons.dev/icons?i=react,express,nodejs,nest,laravel,fastapi,flask)
 
 ---
 
