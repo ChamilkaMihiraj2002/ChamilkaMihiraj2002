@@ -52,7 +52,7 @@ A cross-platform desktop application engineered for **efficient local file organ
 ### 🚗 AI Vehicle Rental Platform – ML Dynamic Pricing System
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,react"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,mongodb"/>
 </p>
 
 A smart rental system integrating **machine learning and reinforcement learning models** to dynamically adjust pricing based on demand and fleet availability.
@@ -71,7 +71,7 @@ A smart rental system integrating **machine learning and reinforcement learning 
 ### 📄 Local Document Converter – Offline PDF Converter
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,react"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,react"/>
 </p>
 
 A lightweight utility designed to convert **DOCX and PPTX files to PDF locally** without requiring Microsoft Office or LibreOffice.
