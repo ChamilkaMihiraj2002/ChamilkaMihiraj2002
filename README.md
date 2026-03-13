@@ -1,164 +1,140 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#0ff;">Chamilka Mihiraj Perera</span></h1>
+<!-- HEADER -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Chamilka%20Mihiraj%20Perera&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<h1 align="center">Hi 👋 I'm Chamilka Mihiraj Perera</h1>
 
 <h3 align="center">
-🚀 IT&M Undergraduate | 💻 Software Developer | 🌐 Data & AI Enthusiast
+🚀 IT & Management Undergraduate • 💻 Software Developer • 🤖 Data & AI Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Building+AI+Powered+Applications;Full-stack+Developer;Desktop+App+Engineer;Always+learning+something+new." />
+
+<img src="https://komarev.com/ghpvc/?username=Chamilkamihiraj2002&color=blueviolet&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Chamilkamihiraj2002?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/Chamilkamihiraj2002?style=for-the-badge"/>
+
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Chamilkamihiraj2002&color=blueviolet&style=flat-square">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=550&lines=Building+Smart+Systems+🧠;Full-Stack+Developer+💻;Passionate+about+Data+%26+AI+🤖;Always+Learning+New+Technologies+🚀"/>
 </p>
 
 ---
 
-### 🧠 About Me
+# 🧠 About Me
 
-- 🎓 I'm currently pursuing my **IT & Management degree** at the **University of Moratuwa**
-- 🔬 I enjoy building **smart systems and data-driven applications**
-- 🤖 Interested in **Artificial Intelligence and Machine Learning**
-- 🖥️ Building **desktop and full-stack applications**
-- 🌱 Currently learning **AI systems, data engineering, and DevOps**
+🎓 IT & Management Undergraduate at **University of Moratuwa**
 
-<p align="center">
-<img src="image/image1.gif" height="250"/>
-</p>
+💡 Passionate about building **data-driven applications** and **intelligent systems**
+
+🔬 Interested in:
+
+• Artificial Intelligence
+• Data Engineering
+• Computer Vision
+• IoT & Edge Computing
+
+🌱 Currently exploring:
+
+• AI tools & Machine Learning
+• DevOps & Cloud Infrastructure
+• Scalable backend architectures
 
 ---
 
-# 🚀 Projects
+# ⚡ Tech Stack
 
-### 🗂 AssetSpace – Desktop Asset Management System
+### 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,electron,fastapi,python"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,ts,js,php&theme=dark"/>
 </p>
 
-A cross-platform desktop application engineered for **efficient local file organization and asset management** within complex folder structures.
-
-**Key Features**
-
-✔ Structured asset browsing  
-✔ Fast local indexing  
-✔ Offline-first architecture  
-✔ Desktop-native performance
-
-🔗 Repo: https://github.com/YOUR_REPO_LINK
-
----
-
-### 🚗 AI Vehicle Rental Platform – ML Dynamic Pricing System
+### ⚙️ Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,mongodb"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,nest,laravel,fastapi&theme=dark"/>
 </p>
 
-A smart rental system integrating **machine learning and reinforcement learning models** to dynamically adjust pricing based on demand and fleet availability.
-
-**Key Features**
-
-✔ Machine learning pricing models  
-✔ Demand prediction  
-✔ Dynamic pricing optimization  
-✔ Data-driven decisions
-
-🔗 Repo: https://github.com/YOUR_REPO_LINK
-
----
-
-### 📄 Local Document Converter – Offline PDF Converter
+### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,react"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui&theme=dark"/>
 </p>
 
-A lightweight utility designed to convert **DOCX and PPTX files to PDF locally** without requiring Microsoft Office or LibreOffice.
+### 🗄 Databases
 
-**Key Features**
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&theme=dark"/>
+</p>
 
-✔ Fully offline conversion  
-✔ No Office dependencies  
-✔ Fast processing  
-✔ Lightweight design
+### ☁️ Cloud & DevOps
 
-🔗 Repo: https://github.com/YOUR_REPO_LINK
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,postman&theme=dark"/>
+</p>
 
----
+### 🛠 Tools & Hardware
 
-### 🛠️ Languages & Tools
-
-#### 🧑‍💻 Programming Languages
-
-![Languages](https://skillicons.dev/icons?i=python,cpp,c,java,ts,js,php)
-
----
-
-#### ⚙️ Frameworks & Libraries
-
-![Frameworks](https://skillicons.dev/icons?i=react,express,nodejs,nest,laravel,fastapi,flask)
+<p>
+<img src="https://skillicons.dev/icons?i=figma,blender,arduino&theme=dark"/>
+</p>
 
 ---
 
-#### 🌐 Web Technologies
-
-![Web](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui)
-
----
-
-#### 🛢️ Databases
-
-![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb)
-
----
-
-#### ☁️ Cloud & DevOps
-
-![Cloud](https://skillicons.dev/icons?i=docker,linux,postman)
-
----
-
-#### 🔧 Tools & Design
-
-![Tools](https://skillicons.dev/icons?i=figma,blender,arduino)
-
----
-
-# 📊 GitHub Activity
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chamilkamihiraj2002&theme=2077" height="180em"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chamilkamihiraj2002&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chamilkamihiraj2002&layout=compact&theme=github_dark" height="150"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Chamilkamihiraj2002&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chamilkamihiraj2002&theme=github-dark&area=true&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamilkamihiraj2002&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔗 Let's Connect
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chamilkamihiraj2002&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/chamilka-mihiraj-perera2002">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:chamilkaperera5@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Chamilkamihiraj2002">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
@@ -167,6 +143,10 @@ A lightweight utility designed to convert **DOCX and PPTX files to PDF locally**
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+✨ *"Building technology that solves real-world problems."* ✨
 
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=150&section=footer"/>
 </p>
